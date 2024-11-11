@@ -1,1 +1,1 @@
-[![JoseMiguel01012570345's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMiguel01012570345&show_icons=true)](https://github.com/JoseMiguel01012570345/github-readme-stats)
+[![JoseMiguel01012570345's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMiguel01012570345&show_icons=true&theme=radical)](https://github.com/JoseMiguel01012570345/github-readme-stats)
