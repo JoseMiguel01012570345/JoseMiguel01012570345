@@ -1,2 +1,2 @@
 [![JoseMiguel01012570345's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMiguel01012570345&show_icons=true&theme=radical)](https://github.com/JoseMiguel01012570345/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMiguel01012570345&langs_count=8)](https://github.com/JoseMiguel01012570345/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMiguel01012570345&langs_count=8&layout=compact)](https://github.com/JoseMiguel01012570345/github-readme-stats)
