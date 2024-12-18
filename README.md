@@ -1,3 +1,4 @@
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{shakiliitju}/count.svg" /></p> 
 <a href="https://github.com/JoseMiguel01012570345/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoseMiguel01012570345&show_icons=true&theme=radical" />
 </a>
